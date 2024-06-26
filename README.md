@@ -17,6 +17,7 @@ Streamlit is an innovative open-source Python library that simplifies the proces
 
 To kickstart your journey with Streamlit, here are some basic commands and features you'll be using:
 
+
 ### Basic Streamlit Commands
 
 - `st.title("Title")`: Adds a title to your app.
