@@ -2,7 +2,3 @@ matplotlib
 numpy
 pandas
 streamlit
-plotly
-streamlit_jupyter
-ipywidgets
-ipykernel
